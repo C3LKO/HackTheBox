@@ -1,1 +1,1 @@
-Journey towards Bug Bounty Hunter, Defensive Security Analyist and Certified Web Exploitation Expert
+Journey towards Bug Bounty Hunter, Defensive Security Analyist and Certified Web Exploitation Expert thru HAckTheBox
