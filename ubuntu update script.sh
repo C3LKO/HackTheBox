@@ -14,3 +14,5 @@ sudo apt clean -y
 
 # below command will Display system update status on terminal to know if the update and upgrade is successfull
 echo "System updates and upgrades completed successfully."
+
+# help with setup: (https://www.geeksforgeeks.org/shell-script-to-automate-system-updates-and-upgrades-in-linux/)
